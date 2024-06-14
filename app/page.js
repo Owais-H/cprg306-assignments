@@ -11,8 +11,12 @@ export default function Home() {
       <h1 className="text-xl text-white">CPRG 306: Web Development 2 - Assignments</h1>
       <div>
       <Link className={linkStyles} href="./week-2">Week 2 Assignment</Link>
-      </div><div>
+      </div>
+      <div>
       <Link className={linkStyles} href="./week-3">Week 3 Assignment</Link>
+      </div>
+      <div>
+      <Link className={linkStyles} href="./week-4">Week 4 Assignment</Link>
       </div>
     </main>
   );
